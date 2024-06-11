@@ -1,0 +1,15 @@
+# Node.js
+frontend/node_modules/
+
+# IDE specific files
+backend/.idea/
+
+# Python virtual environment
+/venv
+
+# Other common files to ignore
+*.log
+*.pyc
+*.pyo
+__pycache__/
+.DS_Store
